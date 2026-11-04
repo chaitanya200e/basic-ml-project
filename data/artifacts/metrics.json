@@ -1,0 +1,15 @@
+{
+  "model": "Gradient Boosting",
+  "cv_r2_log": 0.8914,
+  "test_r2_log": 0.8823,
+  "test_r2_price": 0.7925,
+  "test_mae_price": 10584.41,
+  "n_rows": 1273,
+  "best_params": {
+    "subsample": 0.85,
+    "n_estimators": 400,
+    "min_samples_leaf": 3,
+    "max_depth": 3,
+    "learning_rate": 0.1
+  }
+}
